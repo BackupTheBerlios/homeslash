@@ -1,0 +1,104 @@
+a
+{
+	text-decoration:	none;
+	color:				#0000ff;
+}
+a:hover
+{
+	color:				#555555;
+}
+h1
+{
+	font-size:			18px;
+}
+h2
+{
+	font-size:			10px;
+	text-decoration:	underline;
+	font-weight:		normal;
+}
+table.main
+{
+	width:				100%;
+}
+table.head
+{
+	width:				100%;
+}
+table.hs
+{
+	width:				100%;
+	border:				1px solid #999999;
+	margin-bottom:		5px;
+}
+td
+{
+	padding:			2px;
+	font-size:			10px;
+	font-family:		verdana,arial,san-serif;
+}
+td.top
+{
+	width:				200px;
+}
+td.logo
+{
+	padding:			0px;
+	border:				1px solid #999999;
+	height:				50px;
+	text-align:			center;
+}
+td.login
+{
+	padding:			0px;
+	width:				300px;
+}
+td.info
+{
+	text-align:			right;
+	padding:			0px;
+}	
+td.modules
+{
+	padding:			5px;
+	width:				100px;
+	height:				150px;
+	border:				1px solid #999999;
+	text-align:			left;
+}
+td.menu
+{
+	padding:			5px;
+	border:				1px solid #999999;
+	text-align:			left;
+}	
+td.mod_menu
+{
+	padding:			5px;
+	height:				250px;
+	border:				1px solid #999999;
+	text-align:			left;
+}	
+td.main
+{
+	padding:			5px;
+	text-align:			left;
+}
+td.hs
+{
+	padding:		2px;
+}
+td.hs_title
+{
+	border-bottom:		1px solid #999999;
+	background-color:	#eeeeee;
+}
+td.hs_right
+{
+	text-align:		right;
+}
+input
+{
+	font-size:			10px;
+	font-family:		verdana,arial,san-serif;
+}

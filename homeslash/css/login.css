@@ -1,0 +1,32 @@
+a
+{
+	text-decoration:	none;
+	color:				#0000ff;
+}	
+a:hover
+{
+	color:				#555555;
+}	
+table
+{
+	border:				1px solid #999999;
+}
+td
+{
+	padding:			2px;
+	font-size:			10px;
+	font-family:		verdana,arial,san-serif;
+}
+td.right
+{
+	text-align:			right;
+}	
+td.center
+{
+	text-align:			center;
+}
+input
+{
+	font-size:			10px;
+	font-family:		verdana,arial,san-serif;
+}

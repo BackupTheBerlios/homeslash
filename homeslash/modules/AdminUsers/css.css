@@ -1,0 +1,12 @@
+/*
+	File: 		css.css
+	Purpose:	Your module's css (classes must start with your module's name)
+*/
+select.AdminUsers
+{
+	width:				100px;
+}
+td.AdminUsers_right
+{
+	text-align:			right;
+}

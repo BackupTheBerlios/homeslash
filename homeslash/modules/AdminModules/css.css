@@ -1,0 +1,26 @@
+table.AdminModules
+{
+	width:					100%;
+}
+
+td.AdminModules_head
+{
+	background-color:		#ffffff;
+	border-bottom:			1px solid #000000;
+	padding:				5px;
+	font-size:				10px;
+}
+td.AdminModules
+{
+	border-bottom:			1px solid #000000;
+	background-color:		#ffffff;
+	padding:				5px;
+	font-size:				10px;
+}
+td.AdminModules_installed
+{
+	border-bottom:			1px solid #000000;
+	background-color:		#ddffdd;
+	padding:				5px;
+	font-size:				10px;
+}
